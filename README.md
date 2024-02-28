@@ -1,4 +1,4 @@
-The code implements a simple booking system for a bus service called "locobus." It consists of two main user roles: 
+The code implements a simple booking system for a bus service called "HighFly." It consists of two main user roles: 
 passengers and cashiers.
 
 For passengers:
